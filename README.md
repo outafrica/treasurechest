@@ -1,4 +1,4 @@
-# Welcome to TreausreChest!
+# Welcome to TreasureChest!
 
 Hi! I'm sharing a list of llinks that might help any dev out there do what they can in the most enabling space imaginable.
 
@@ -10,11 +10,11 @@ Hi! I'm sharing a list of llinks that might help any dev out there do what they 
 |CheatSheet                         |`https://overapi.com/`                 |
 |Public API's                       |`https://public-apis.io/`              |
 |Images, placeholders & Icons       |`https://placeholder.com/`             |
-                                    |`https://picsum.photos/`               |
-                                    |`https://svgporn.com/`                 |
+|                                   |`https://picsum.photos/`               |
+|                                   |`https://svgporn.com/`                 |
 |UX/UI                              |`https://openpeeps.com/`               |
-                                    |`https://blush.design/`                |
-                                    |`https://uidesigndaily.com/`           |
+|                                   |`https://blush.design/`                |
+|                                   |`https://uidesigndaily.com/`           |
 |Share fancy code snippets          |`https://carbon.now.sh/`               |
 |Adobe API's                        |`https://www.adobe.io/apis.html`       |
 
