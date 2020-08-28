@@ -1,6 +1,6 @@
 # Welcome to TreasureChest!
 
-Hi! I'm sharing a list of llinks that might help any dev out there do what they can in the most enabling space imaginable.
+Hi! I'm sharing a list of links that might help any dev out there do what they can in the most enabling space imaginable.
 
 > Feel free to contribute and add more links.
 
